@@ -4,6 +4,8 @@
 **No matter what the circumstances may be, I will be cheerful and happy. Rather than our circumstances determining our happiness or misery, I have learned that it is our disposition that determines the majority.**
 
 
+
+
 :school: *My current studies at Florida polytechnic university are for my master's degree.*  
 
 :computer:  *In the past, I worked in the Python programming language.*  
