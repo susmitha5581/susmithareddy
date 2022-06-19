@@ -1,6 +1,6 @@
 # Hi, I'm Susmitha Reddy Gopavaram 👋🏾 👩🏾‍💻
 body {
-  background-image: url('[https://github.com/susmithareddy-1996/susmithareddy/blob/main/software.png]');
+  background-image: url('https://github.com/susmithareddy-1996/susmithareddy/blob/main/software.png');
   background-repeat: no-repeat;
   background-size: 100%;
 }
