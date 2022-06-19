@@ -1,5 +1,4 @@
 # Hi, I'm Susmitha Reddy Gopavaram 👋🏾 👩🏾‍💻
-
 <img src="https://github.com/susmithareddy-1996/susmithareddy/blob/main/software.png" alt=”my banner”>
 
 ![banner](https://github.com/susmithareddy-1996/susmithareddy/blob/main/software.png)
