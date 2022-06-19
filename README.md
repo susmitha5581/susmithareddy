@@ -1,6 +1,7 @@
 # Hi, I'm Susmitha Reddy Gopavaram 👋🏾 👩🏾‍💻
 
 :school: I am currently pursuing my masters in Florida polytechnic university.
+
 :computer: my previous experience as a Python Developer
 
 
