@@ -6,9 +6,10 @@
 
 :chart: *Python,  Linux, SQL, Apache Solr, Microsoft Azure, Tensor Flow, C#, Angular JS, Java, HTML*
 
+--------------------------------
 
 > ## **Find me around the web** 🌎: 
---------------
+
 >   src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
