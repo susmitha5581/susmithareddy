@@ -12,6 +12,14 @@
 
 :chart: *Python,  Linux, SQL, Apache Solr, Microsoft Azure, Tensor Flow, C#, Angular JS, Java, HTML*
 
+## Hobbies
+
+:leaves: Gardening
+
+:art: painting
+
+📹 Movies
+
 
 
 
