@@ -1,2 +1,2 @@
 # susmithareddy
-This is a Personal profile Readme..... of me!
+This is a Personal profile readme..... of me!
