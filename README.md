@@ -1,15 +1,4 @@
 # Hi, I'm Susmitha Reddy Gopavaram 👋🏾 👩🏾‍💻
-body {
-  background-image: url('https://github.com/susmithareddy-1996/susmithareddy/blob/main/software.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-div {
-  background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
-  padding: 0.25em;
-}
-
 ---
 title: "Example of Using a Banner Image with RMarkdown"
 author: "Thaufus"
