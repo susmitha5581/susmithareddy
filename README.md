@@ -4,6 +4,8 @@
 
 :computer:  In the past, I worked in the Python programming language  
 
+:chart: Python,  Linux, SQL, Apache Solr, Microsoft Azure, Tensor Flow, C#, Angular JS, Java, HTML
+
 
 > ## **Find me around the web** 🌎: ![img_4286a-350x233](https://github.com/susmithareddy-1996/susmithareddy/blob/main/social%20media.gif)[3]
 --------------
