@@ -22,6 +22,13 @@
 
 
 
+## Projects
+
+1.Indoor guidance for visually impaired people using RFID technology
+
+2. Ready to Move
+
+
 
 
 
