@@ -6,6 +6,18 @@
 
 :chart: *Python,  Linux, SQL, Apache Solr, Microsoft Azure, Tensor Flow, C#, Angular JS, Java, HTML*
 
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------
 
 > ## **Find me around the web** 🌎: 
