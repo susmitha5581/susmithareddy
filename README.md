@@ -25,10 +25,18 @@
 ## Projects
 
 1.Indoor guidance for visually impaired people using RFID technology.
+
+
 2. Heart Disease Prediction using the Logistic Regression.
-3.Twitter sentiment analysis using BERT model.
-4. Optimization CVXR using Simplest Least Squares, Polynomial Fitting and Logistic Regression.
-5. Credit card Fraud Detection.
+
+
+4.Twitter sentiment analysis using BERT model.
+
+
+5. Optimization CVXR using Simplest Least Squares, Polynomial Fitting and Logistic Regression.
+
+
+7. Credit card Fraud Detection.
 
 
 
